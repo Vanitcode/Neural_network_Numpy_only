@@ -1,1 +1,1 @@
-Neural Netwoek
+#Neural Network using Numpy.
